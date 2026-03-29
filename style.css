@@ -31,6 +31,7 @@ body {
 }
 
 .btn {
+    color: white;
     padding: 15px;
     font-size: 18px;
     border: none;
